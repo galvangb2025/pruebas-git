@@ -1,0 +1,4 @@
+Commit --> Guardar en local SIEMPRE TIENE MENSAJE
+Push --> Lanzar el repositorio al git
+Pull --> Bajar las actualizaciones del repositorio al local
+Clone --> Clonar por primera vez
